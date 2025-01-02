@@ -39,9 +39,9 @@ For the working of our model, Facebook's LLaMA-2 model weights are required, det
 
 The trained checkpoints for our model is available here:
 
-- [M<sup>2</sup>UGen with MusicGen Small](https://huggingface.co/M2UGen/M2UGen-MusicGen-small)
-- [M<sup>2</sup>UGen with MusicGen Medium](https://huggingface.co/M2UGen/M2UGen-MusicGen-medium)
-- [M<sup>2</sup>UGen with AudioLDM2](https://huggingface.co/M2UGen/M2UGen-AudioLDM2)
+- [MuMu-LlaMA with MusicGen Small](https://huggingface.co/M2UGen/M2UGen-MusicGen-small)
+- [MuMu-LlaMA with MusicGen Medium](https://huggingface.co/M2UGen/M2UGen-MusicGen-medium)
+- [MuMu-LlaMA with AudioLDM2](https://huggingface.co/M2UGen/M2UGen-AudioLDM2)
 
 The needed pretrained multi-modal encoder and music decoder models can be found here:
 
@@ -111,4 +111,4 @@ If you find this repo useful, please consider citing:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=shansongliu/M2UGen&type=Date)](https://star-history.com/#shansongliu/MuMu-LLaMA&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=shansongliu/MuMu-LLaMA&type=Date)](https://star-history.com/#shansongliu/MuMu-LLaMA&Date)
