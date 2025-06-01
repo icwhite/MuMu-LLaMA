@@ -12,7 +12,7 @@ from .projector import ProjectionLayer
 from util.misc import download
 from .utils import sample_top_p
 from .musicgen.musicgen import MusicgenForConditionalGeneration
-from .audioldm2 import AudioLDM2Pipeline
+# from .audioldm2 import AudioLDM2Pipeline
 
 from transformers import LlamaTokenizer
 from transformers import Wav2Vec2FeatureExtractor, AutoModel
